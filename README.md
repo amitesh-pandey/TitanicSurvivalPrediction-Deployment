@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/63364350/129478459-480f333a-87b6-489f-a095-62e8700261bd.PNG)
 
 # TitanicSurvivalPrediction-Deployment
 
